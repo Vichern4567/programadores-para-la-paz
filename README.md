@@ -1,4 +1,5 @@
 Sobre mí
+
 Victor Manuel Hernandez Pisciotti
 Estudiante de Programadores Para La Paz
 Comprometido con el uso ético y responsable de la tecnología para construir una sociedad más justa y pacífica.
